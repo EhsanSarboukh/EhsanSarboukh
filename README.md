@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ehsansarboukh&label=Profile%20views&color=0e75b6&style=flat" alt="ehsansarboukh" /> </p>
 
-- 🌱 I’m currently learning **ReactJS,Node.js**
+- 🌱 I’m currently learning **Computer Vision,Facial Recognition**
 
 - 💬 Ask me about **OOP,Java,C programming**
 
